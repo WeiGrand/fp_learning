@@ -1,0 +1,1 @@
+[https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details]JS 函数式编程指南 学习记录
